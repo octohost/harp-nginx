@@ -30,3 +30,5 @@ CMD nginx
 ```
 
 Push it to your docker server - and your server will use 4-6MB of RAM instead of 60MB.
+
+To see an example working repo, [take a look here](https://github.com/octohost/harp).
